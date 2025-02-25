@@ -13,9 +13,18 @@
 <img align="right" width="290" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRrbTZkcm02b2UyeHQ0cXpmbHZrZTNiaGl2eXZxZzBqMXc3c3R5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 Nice to meet you, my name is Jesus Rivera Castañeda, I am 21 years old and I am currently studying Software Engineering at the Technological University of Peru (Lima, Peru). <br><br>
-💡 I look for fast and efficient solutions through software development.  <br><br>
+💡 I look for fast and efficient solutions through software development. <br><br>
 ✍️ I am on the path to learning more technologies and skills that strengthen my knowledge. <br><br>
-🌱 In my free time, I love traveling with my family, playing soccer or watching videos on YouTube. <br><br>
+💭 In my free time, I love traveling with my family, playing soccer or watching videos on YouTube. <br><br>
+
+<h2 style="display: inline-block">👨🏻‍💻 &nbsp;Skills </h2>
+
+🤝 Teamwork <br>
+🎯 Project leadership <br>
+🖋️ Troubleshooting <br>
+📖 Continuous learning in the area of ​​technology <br>
+🔄 Adaptability to any circumstance <br>
+✅ Self-management and proactivity <br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -26,11 +35,23 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,linux,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,linux&perline=14" />
   </a>
 </p>
 
-<h2 style="display: inline-block">⚙️ &nbsp;GitHub Analytics</h2>
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">⚙️ Tools used</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=14" />
+  </a>
+</p>
+
+<h2 style="display: inline-block">💻 &nbsp;GitHub Analytics</h2>
 
 <p align="left">
 <a href="https://github.com/JesusRivX">
