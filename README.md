@@ -35,7 +35,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,php,laravel,tailwind,sass&perline=14" />
   </a>
 </p>
 
@@ -47,7 +47,19 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,gulp&perline=14" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">📄 Management of operating systems</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,kali&perline=14" />
   </a>
 </p>
 
